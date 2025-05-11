@@ -1,0 +1,37 @@
+Race started at: 2025-05-02 22:47:26.336479
+Track: Default
+Stage: Unknown
+Training: Enabled
+Loaded model from episode: 3982
+--------------------------------------------------------------------------------
+Connected to server at 2025-05-02 22:47:26.343480
+Step 100: Speed=13.0, Pos=1, Damage=0.0, Time=1.0
+Step 200: Speed=63.4, Pos=1, Damage=0.0, Time=3.1
+Step 300: Speed=82.2, Pos=1, Damage=24.0, Time=5.3
+Step 400: Speed=84.0, Pos=1, Damage=24.0, Time=7.5
+Step 500: Speed=75.6, Pos=1, Damage=24.0, Time=9.6
+Step 600: Speed=65.6, Pos=1, Damage=24.0, Time=11.6
+Step 700: Speed=54.0, Pos=1, Damage=24.0, Time=13.6
+Step 800: Speed=40.0, Pos=1, Damage=24.0, Time=15.6
+Step 900: Speed=-2.1, Pos=1, Damage=24.0, Time=17.7
+Step 1000: Speed=0.1, Pos=1, Damage=29.0, Time=19.9
+Step 1100: Speed=0.1, Pos=1, Damage=29.0, Time=22.1
+Step 1200: Speed=0.1, Pos=1, Damage=29.0, Time=24.3
+Step 1300: Speed=0.1, Pos=1, Damage=29.0, Time=26.5
+Step 1400: Speed=0.2, Pos=1, Damage=29.0, Time=28.7
+Step 1500: Speed=0.2, Pos=1, Damage=29.0, Time=30.9
+Step 1600: Speed=0.2, Pos=1, Damage=29.0, Time=33.0
+Step 1700: Speed=0.2, Pos=1, Damage=29.0, Time=35.0
+Step 1800: Speed=0.2, Pos=1, Damage=29.0, Time=37.0
+Step 1900: Speed=0.3, Pos=1, Damage=29.0, Time=39.0
+Step 2000: Speed=0.2, Pos=1, Damage=29.0, Time=41.0
+Step 2100: Speed=0.2, Pos=1, Damage=29.0, Time=43.0
+Step 2200: Speed=0.3, Pos=1, Damage=29.0, Time=45.0
+Step 2300: Speed=0.2, Pos=1, Damage=29.0, Time=47.0
+Step 2400: Speed=0.4, Pos=1, Damage=29.0, Time=49.0
+Step 2500: Speed=0.3, Pos=1, Damage=29.0, Time=51.0
+Step 2600: Speed=0.4, Pos=1, Damage=29.0, Time=53.0
+Step 2700: Speed=0.3, Pos=1, Damage=29.0, Time=55.0
+Step 2800: Speed=0.4, Pos=1, Damage=29.0, Time=57.0
+Step 2900: Speed=0.3, Pos=1, Damage=29.0, Time=59.0
+Step 3000: Speed=0.4, Pos=1, Damage=29.0, Time=61.0

@@ -1,0 +1,22 @@
+Race started at: 2025-05-02 21:22:44.862064
+Track: Default
+Stage: Unknown
+Training: Enabled
+Loaded model from episode: 300
+--------------------------------------------------------------------------------
+Connected to server at 2025-05-02 21:22:44.868066
+Step 100: Speed=15.3, Pos=1, Damage=0.0, Time=1.0
+Step 200: Speed=75.6, Pos=1, Damage=0.0, Time=3.1
+Step 300: Speed=81.7, Pos=3, Damage=0.0, Time=5.3
+Step 400: Speed=78.4, Pos=5, Damage=0.0, Time=7.5
+Step 500: Speed=74.0, Pos=5, Damage=0.0, Time=9.6
+Step 600: Speed=72.4, Pos=5, Damage=0.0, Time=11.6
+Step 700: Speed=69.8, Pos=5, Damage=0.0, Time=13.6
+Step 800: Speed=68.6, Pos=5, Damage=0.0, Time=15.6
+Step 900: Speed=68.8, Pos=5, Damage=0.0, Time=17.7
+Step 1000: Speed=55.9, Pos=5, Damage=27.0, Time=19.9
+Step 1100: Speed=46.4, Pos=5, Damage=27.0, Time=22.1
+Step 1200: Speed=48.2, Pos=5, Damage=27.0, Time=24.3
+Step 1300: Speed=51.3, Pos=5, Damage=27.0, Time=26.5
+Step 1400: Speed=0.0, Pos=5, Damage=861.0, Time=28.7
+Step 1500: Speed=0.1, Pos=5, Damage=861.0, Time=30.9
